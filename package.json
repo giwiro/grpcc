@@ -43,16 +43,6 @@
     "chai": "^3.5.0",
     "mocha": "^5.2.0"
   },
-  "gitHead": "4ef52e9e9f1554e841fac77befd671e9472697ac",
-  "_id": "grpcc@0.0.1",
-  "_shasum": "16b3c1b0bbf62e89ea01c92e8e044a75200c27f6",
-  "_from": "grpcc@*",
-  "_npmVersion": "2.14.12",
-  "_nodeVersion": "4.2.6",
-  "_npmUser": {
-    "name": "njpatel",
-    "email": "njpatel@gmail.com"
-  },
   "dist": {
     "shasum": "16b3c1b0bbf62e89ea01c92e8e044a75200c27f6",
     "tarball": "https://registry.npmjs.org/grpcc/-/grpcc-0.0.1.tgz"
@@ -66,12 +56,5 @@
       "name": "giwiro",
       "email": "giwah@qempo.com"
     }
-  ],
-  "_npmOperationalInternal": {
-    "host": "packages-9-west.internal.npmjs.com",
-    "tmp": "tmp/grpcc-0.0.1.tgz_1454975767622_0.20959731633774936"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/grpcc/-/grpcc-0.0.5.tgz",
-  "readme": "README.md"
+  ]
 }
